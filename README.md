@@ -4,9 +4,8 @@ This is a website for Panda Family, a fictional organization dedicated to protec
 Features
 
     Home page with a hero image and a brief introduction to the organization
-    About page with more detailed information about Panda Family
-    Get Involved page with ways to support the organization, including donations and volunteering
-    Pandas page with images and information about pandas and their habitats
+    About page with more detailed information about a Red Panda Family
+    Red Pandas page with images and funny quoted from the red pandas
     Visit Counter that displays how many times the page has been visited
     Responsive design that adapts to different screen sizes
 
